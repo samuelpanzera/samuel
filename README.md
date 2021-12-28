@@ -27,5 +27,6 @@
 🚀 3º Periodo - Ciência da computação <br>
 📖 Reading... - Clean Code 
  
+  ![Snake animation](https://github.com/samuelpanzera/samuelpanzera/blob/output/github-contribution-grid-snake.svg)
 
 
