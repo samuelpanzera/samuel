@@ -5,8 +5,8 @@
 <div align="center" dir="auto">
   <a href="https://github.com/samuelpanzera">
     <div>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuelpanzera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-    <img style="max-width: 100%;" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpanzera&layout=compact&langs_count=7&theme=dracula" max-widht: "100%";/>
+      <img height="166px" src="https://github-readme-stats.vercel.app/api?username=samuelpanzera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+    <img style="max-width: 100%;" height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpanzera&layout=compact&langs_count=7&theme=dracula" max-widht: "100%";/>
     </div>
 </div>
 
