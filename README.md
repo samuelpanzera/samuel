@@ -1,4 +1,4 @@
-## 👨‍💻 _Hello_World !!
+## 👨‍💻 Hello_World !!
 
 <br>
 
