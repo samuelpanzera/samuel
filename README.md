@@ -22,7 +22,3 @@
 </div>
   
 🚀 3º Periodo - Ciência da computação <br>
- 
-  ![Snake animation](https://github.com/samuelpanzera/samuelpanzera/blob/output/github-contribution-grid-snake.svg)
-
-
